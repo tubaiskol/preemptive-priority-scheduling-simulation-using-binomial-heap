@@ -1,0 +1,20 @@
+# Compiled executable
+scheduler
+*.out
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Other
+*.swp
